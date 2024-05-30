@@ -1,2 +1,3 @@
 # neovim
+
 neovim configuration
